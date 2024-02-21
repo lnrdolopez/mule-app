@@ -16,7 +16,7 @@
         <app.runtime>4.4.0</app.runtime>
         <mule.maven.plugin.version>3.8.2</mule.maven.plugin.version>
         <app.name>mule-github-actions</app.name>
-		<env>DEV</env>
+		<env>Sandbox</env>
 		<munit.version>2.3.13</munit.version>
     </properties>
     
